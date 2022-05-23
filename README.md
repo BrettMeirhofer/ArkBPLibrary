@@ -10,3 +10,11 @@ The ctf folder contains components that can be used to make capture the flag mod
 The jukebox folder contains components that can be used for a structure that plays music with a menu for controlling start/stop, volume, and which audio track is playing.
 
 The upgrade folder contains components for a weapon upgrade systems that adds weapons with new modded stats such as a reload speed and recoil reduction.
+
+
+
+The basic music box model was Provided by Jake.Hatt on Sketchfab[sketchfab.com] under CC4
+
+
+Getting started with the Ark Devkit
+https://ark.fandom.com/wiki/DevKit
